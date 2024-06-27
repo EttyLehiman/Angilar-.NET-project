@@ -41,6 +41,3 @@ This project can be deployed to various cloud platforms, such as Azure or AWS. T
 
 Contributions are welcome! Please follow the project's contribution guidelines before submitting a pull request.
 
-## License
-
-This project is licensed under the MIT License.
